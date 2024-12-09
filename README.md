@@ -2,7 +2,7 @@
 
 **Authors:** 
 [Agus Hartoyo](https://scholar.google.com/citations?user=ZCNIGmMAAAAJ&hl=pl&oi=ao), 
-Dominika Ciupek, 
+[Dominika Ciupek](https://scholar.google.com/citations?user=GiOOZ2IAAAAJ&hl=pl&oi=ao), 
 [Maciej Malawski](https://scholar.google.com/citations?user=IeeOCucAAAAJ&hl=pl&oi=ao), and 
 [Alessandro Crimi](https://scholar.google.com/citations?user=ciOVKiQAAAAJ&hl=pl&oi=ao)
 
