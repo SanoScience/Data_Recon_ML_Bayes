@@ -17,4 +17,6 @@
 - [Anemia Types](https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification)
 - [Brain Stroke](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/)
 - [Digits](https://www.archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
+- [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
 - [Sirtuin6 Small Molecules](https://www.kaggle.com/datasets/rabieelkharoua/sirtuin6-small-molecules-dataset)
+- [WBCD](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
