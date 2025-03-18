@@ -6,7 +6,7 @@
 [Maciej Malawski](https://scholar.google.com/citations?user=IeeOCucAAAAJ&hl=pl&oi=ao), and 
 [Alessandro Crimi](https://scholar.google.com/citations?user=ciOVKiQAAAAJ&hl=pl&oi=ao)
 
-## [Preprint](https://assets-eu.researchsquare.com/files/rs-5220310/v1_covered_9f00c1a4-fa1b-4cec-a826-054935182595.pdf?c=1731463344)
+## [Preprint](https://www.researchsquare.com/article/rs-5220310/v2)
 
 ## Overview
 
